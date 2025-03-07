@@ -15,7 +15,7 @@
     madhulikabunny1368@gmail.com 
   </h5>
   <h3>Skills</h3>
-  <h5>HTML,CSS,JavaScript,Accessibility,Figma to Design,
+  <h5>HTML,CSS,JavaScript,Accessibility,python,
     <br>
     Responsive webdesign,Technical Writing,Presentation
   </h5>
